@@ -10,3 +10,14 @@ in [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth#-scaffold-eth)
 Notes
 
 * Use node 16 - node 18 will not run the front end
+
+## Working with the Examples
+
+* Edit YourContract.sol in packages/hardhat/contracts
+* Main directory - yarn deploy
+* Interact in the browser
+
+
+### Adding a New Contract
+
+* See [this section](https://docs.scaffoldeth.io/scaffold-eth/toolkit/how-tos-and-troubleshooting/adding-a-new-contract)
